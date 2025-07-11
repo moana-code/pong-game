@@ -5,21 +5,19 @@
 Este projeto recria o clássico jogo Pong usando a biblioteca p5.js.
 O objetivo é aprender lógica de jogos, controle de sprites, eventos de teclado e publicação na web com GitHub Pages.
 
-📁 Estrutura do Projeto
+📁 Estrutura do Projeto:
 
 pong-game/
 
 ├── index.html
-
 ├── sketch.js
-
 ├── bola copy.png        
 ├── barra01.png           
 ├── barra02.png           
 ├── fundo1.png
 
 
-🕹️ Funcionalidades
+🕹️ Funcionalidades: 
 Bola se movimenta automaticamente 
 Raquetes controladas por teclado:
 W / S para raquete esquerda
@@ -27,14 +25,14 @@ W / S para raquete esquerda
 Colisões com bordas e raquetes
 Reinício do jogo ao marcar ponto
 
-▶️ Como Rodar Localmente
+▶️ Como Rodar Localmente: 
 Instale a extensão Live Server no VS Code
 Abra a pasta do projeto
 Clique com o botão direito no index.html
 Selecione "Open with Live Server"
 O jogo abrirá no navegador
 
-🚀 Publicação no GitHub
+🚀 Publicação no GitHub: 
 Criar o repositório
 Acesse: (Seu repositório no GitHub)
 Enviar projeto com Git
@@ -49,20 +47,20 @@ git remote add origin https://github.com/moana-code/pong-game.git
 git push -u origin main
 
 
-🌐 Publicação com GitHub Pages
+🌐 Publicação com GitHub Pages:
 No GitHub, vá em Settings > Pages
 Em Branch, selecione main e pasta / (root)
 Clique em Save
 Acesse o link gerado:
 🔗 https://moana-code.github.io/pong-game/
 
-📚 Tecnologias Usadas
+📚 Tecnologias Usadas:
 HTML5
 JavaScript
 p5.js
 Git & GitHub
 GitHub Pages
-✨ Feito por Moana Costa
+✨ Feito por Moana Costa - 
 Desenvolvedora iniciante apaixonada por aprender e criar coisas legais!
 
 🔗 github.com/moana-code
