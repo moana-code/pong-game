@@ -10,7 +10,9 @@ O objetivo é aprender lógica de jogos, controle de sprites, eventos de teclado
 pong-game/
 
 ├── index.html
+
 ├── sketch.js
+
 ├── bola copy.png        
 ├── barra01.png           
 ├── barra02.png           
