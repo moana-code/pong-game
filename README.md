@@ -6,6 +6,7 @@ O objetivo é aprender lógica de jogos, controle de sprites, eventos de teclado
  Estrutura do Projeto
 
 pong-game/
+
 ├── index.html
 ├── sketch.js
 ├── bola copy.png        
