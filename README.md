@@ -60,6 +60,10 @@ JavaScript
 p5.js
 Git & GitHub
 GitHub Pages
+
+
+
+
 ✨ Feito por Moana Costa - 
 Desenvolvedora iniciante apaixonada por aprender e criar coisas legais!
 
